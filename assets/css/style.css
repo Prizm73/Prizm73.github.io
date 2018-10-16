@@ -4,7 +4,7 @@
 .bold		{ font-weight: 700 }
 .bolder		{ font-weight: 800 }
 .light		{ font-weight: 300 }
-
+#content{vertical-align: middle;}
 .carousel {
   max-width: 100%;
   width: 720px;
@@ -20,6 +20,12 @@
   height: auto;
   max-width: 100%;
 }
+.padding {
+  padding: 100px;
+}
+.padding-small {
+  padding-top: 13px;
+}
 .bg-gradient {
   background: #000428;  /* fallback for old browsers */
 background: -webkit-linear-gradient(to right, #004e92, #000428);  /* Chrome 10-25, Safari 5.1-6 */
@@ -30,14 +36,14 @@ background: linear-gradient(to right, #004e92, #000428); /* W3C, IE 10+/ Edge, F
 }
 .bg {
   background-image: url("../images/code.jpg");
-  height: 800px; 
+  height: 800px;
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
 }
 
 .bg1 {
-  height: 800px; 
+  height: 800px;
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
