@@ -1,2 +1,3 @@
-# uuuuu1226.github.io
-https://www.uuuuu1226.com
+# uuuuu1226's Portfolio
+> ## Developer : uuuuu1226
+#### Hello? I'm Android & Web Developer uuuuu1226.
